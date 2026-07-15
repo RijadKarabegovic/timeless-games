@@ -19,7 +19,7 @@ const MD_BREAKPOINT = 768;
 
 export default function App() {
   const [activeMode, setActiveMode] = useState('classic');
-  const [helpOpen, setHelpOpen] = useState(false);
+  const [helpOpen, setHelpOpen] = useState(true);
   const [isSidebarExpanded, setIsSidebarExpanded] = useState(true);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
@@ -50,6 +50,14 @@ export default function App() {
     setIsMobileMenuOpen(false);
   }, []);
 
+  const handleModeChange = useCallback(
+    (mode) => {
+      if (mode !== activeMode) setHelpOpen(true);
+      setActiveMode(mode);
+    },
+    [activeMode],
+  );
+
   return (
     <div className="min-h-dvh bg-zinc-950 text-zinc-100 antialiased">
       <Header
@@ -62,7 +70,7 @@ export default function App() {
 
       <Sidebar
         activeMode={activeMode}
-        onModeChange={setActiveMode}
+        onModeChange={handleModeChange}
         onHelp={() => setHelpOpen(true)}
         isExpanded={isSidebarExpanded}
         isMobileOpen={isMobileMenuOpen}
