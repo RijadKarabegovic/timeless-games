@@ -1,0 +1,1087 @@
+[
+  {
+    "id": 1,
+    "event": "Construction of the Great Pyramid of Giza begins",
+    "year": -2560,
+    "category": "Architecture",
+    "era": "BCE"
+  },
+  {
+    "id": 2,
+    "event": "Hammurabi issues his code of laws in Babylon",
+    "year": -1754,
+    "category": "Politics",
+    "era": "BCE"
+  },
+  {
+    "id": 3,
+    "event": "Traditional founding of Rome by Romulus",
+    "year": -753,
+    "category": "Politics",
+    "era": "BCE"
+  },
+  {
+    "id": 4,
+    "event": "Battle of Marathon halts the first Persian invasion of Greece",
+    "year": -490,
+    "category": "War",
+    "era": "BCE"
+  },
+  {
+    "id": 5,
+    "event": "Alexander the Great defeats Darius III at the Battle of Gaugamela",
+    "year": -331,
+    "category": "War",
+    "era": "BCE"
+  },
+  {
+    "id": 6,
+    "event": "Julius Caesar is assassinated on the Ides of March",
+    "year": -44,
+    "category": "Politics",
+    "era": "BCE"
+  },
+  {
+    "id": 7,
+    "event": "Mount Vesuvius erupts and buries Pompeii",
+    "year": 79,
+    "category": "Disaster",
+    "era": "CE"
+  },
+  {
+    "id": 8,
+    "event": "Fall of the Western Roman Empire",
+    "year": 476,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 9,
+    "event": "Johannes Gutenberg completes the first printed Bible",
+    "year": 1455,
+    "category": "Technology",
+    "era": "CE"
+  },
+  {
+    "id": 10,
+    "event": "Christopher Columbus reaches the Americas",
+    "year": 1492,
+    "category": "Exploration",
+    "era": "CE"
+  },
+  {
+    "id": 11,
+    "event": "Isaac Newton publishes the Principia Mathematica",
+    "year": 1687,
+    "category": "Science",
+    "era": "CE"
+  },
+  {
+    "id": 12,
+    "event": "The French Revolution begins with the storming of the Bastille",
+    "year": 1789,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 13,
+    "event": "The Wright brothers achieve the first powered flight",
+    "year": 1903,
+    "category": "Technology",
+    "era": "CE"
+  },
+  {
+    "id": 14,
+    "event": "Apollo 11 lands the first humans on the Moon",
+    "year": 1969,
+    "category": "Exploration",
+    "era": "CE"
+  },
+  {
+    "id": 15,
+    "event": "Tim Berners-Lee proposes the World Wide Web",
+    "year": 1989,
+    "category": "Technology",
+    "era": "CE"
+  },
+  {
+    "id": 16,
+    "event": "Development of cuneiform writing in Sumer",
+    "year": -3200,
+    "category": "Technology",
+    "era": "BCE"
+  },
+  {
+    "id": 17,
+    "event": "First Dynasty of Egypt is unified by King Narmer",
+    "year": -3100,
+    "category": "Politics",
+    "era": "BCE"
+  },
+  {
+    "id": 18,
+    "event": "Construction of Stonehenge begins in England",
+    "year": -3000,
+    "category": "Architecture",
+    "era": "BCE"
+  },
+  {
+    "id": 19,
+    "event": "Minoan eruption of Thera destroys Aegean settlements",
+    "year": -1600,
+    "category": "Disaster",
+    "era": "BCE"
+  },
+  {
+    "id": 20,
+    "event": "The Battle of Kadesh between Egypt and the Hittite Empire",
+    "year": -1274,
+    "category": "War",
+    "era": "BCE"
+  },
+  {
+    "id": 21,
+    "event": "The first recorded Ancient Olympic Games are held in Olympia",
+    "year": -776,
+    "category": "Culture",
+    "era": "BCE"
+  },
+  {
+    "id": 22,
+    "event": "Cyrus the Great founds the Persian Achaemenid Empire",
+    "year": -550,
+    "category": "Politics",
+    "era": "BCE"
+  },
+  {
+    "id": 23,
+    "event": "Siddhartha Gautama achieves enlightenment, founding Buddhism",
+    "year": -528,
+    "category": "Religion",
+    "era": "BCE"
+  },
+  {
+    "id": 24,
+    "event": "The Roman Republic is established after overthrowing the monarchy",
+    "year": -509,
+    "category": "Politics",
+    "era": "BCE"
+  },
+  {
+    "id": 25,
+    "event": "Trial and execution of the philosopher Socrates in Athens",
+    "year": -399,
+    "category": "Philosophy",
+    "era": "BCE"
+  },
+  {
+    "id": 26,
+    "event": "Qin Shi Huang unifies China, establishing the Qin Dynasty",
+    "year": -221,
+    "category": "Politics",
+    "era": "BCE"
+  },
+  {
+    "id": 27,
+    "event": "Hannibal Barca of Carthage crosses the Alps to invade Rome",
+    "year": -218,
+    "category": "War",
+    "era": "BCE"
+  },
+  {
+    "id": 28,
+    "event": "The Rosetta Stone is carved under the reign of Ptolemy V",
+    "year": -196,
+    "category": "Culture",
+    "era": "BCE"
+  },
+  {
+    "id": 29,
+    "event": "The Roman Republic completely destroys Carthage",
+    "year": -146,
+    "category": "War",
+    "era": "BCE"
+  },
+  {
+    "id": 30,
+    "event": "Spartacus leads a major gladiator rebellion against Rome",
+    "year": -73,
+    "category": "War",
+    "era": "BCE"
+  },
+  {
+    "id": 31,
+    "event": "The naval Battle of Actium seals the rise of Octavian",
+    "year": -31,
+    "category": "War",
+    "era": "BCE"
+  },
+  {
+    "id": 32,
+    "event": "Crucifixion of Jesus Christ in Jerusalem",
+    "year": 33,
+    "category": "Religion",
+    "era": "CE"
+  },
+  {
+    "id": 33,
+    "event": "Queen Boudica leads a British rebellion against Roman occupation",
+    "year": 60,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 34,
+    "event": "Construction of Hadrian's Wall begins in northern Britain",
+    "year": 122,
+    "category": "Architecture",
+    "era": "CE"
+  },
+  {
+    "id": 35,
+    "event": "The Yellow Turban Rebellion breaks out in Han Dynasty China",
+    "year": 184,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 36,
+    "event": "Constantine the Great issues the Edict of Milan, legalizing Christianity",
+    "year": 313,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 37,
+    "event": "The First Council of Nicaea defines early Christian doctrine",
+    "year": 325,
+    "category": "Religion",
+    "era": "CE"
+  },
+  {
+    "id": 38,
+    "event": "Alaric and the Visigoths launch the first Sack of Rome",
+    "year": 410,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 39,
+    "event": "Attila the Hun leads his forces to invade Roman Gaul",
+    "year": 451,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 40,
+    "event": "The Plague of Justinian first strikes the Byzantine Empire",
+    "year": 541,
+    "category": "Disaster",
+    "era": "CE"
+  },
+  {
+    "id": 41,
+    "event": "The Hegira: Muhammad migrates from Mecca to Medina",
+    "year": 622,
+    "category": "Religion",
+    "era": "CE"
+  },
+  {
+    "id": 42,
+    "event": "Islamic forces capture Jerusalem from the Byzantine Empire",
+    "year": 637,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 43,
+    "event": "The Battle of Tours halts Umayyad expansion into Europe",
+    "year": 732,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 44,
+    "event": "Viking raiders plunder the monastery at Lindisfarne",
+    "year": 793,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 45,
+    "event": "Charlemagne is crowned Emperor of the Romans",
+    "year": 800,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 46,
+    "event": "The House of Wisdom is formally established in Baghdad",
+    "year": 830,
+    "category": "Science",
+    "era": "CE"
+  },
+  {
+    "id": 47,
+    "event": "Al-Qarawiyyin University is founded in Fez, Morocco",
+    "year": 859,
+    "category": "Culture",
+    "era": "CE"
+  },
+  {
+    "id": 48,
+    "event": "The Rurik Dynasty establishes the foundations of Kievan Rus",
+    "year": 862,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 49,
+    "event": "The Diamond Sutra, the first dated printed block book, is created",
+    "year": 868,
+    "category": "Technology",
+    "era": "CE"
+  },
+  {
+    "id": 50,
+    "event": "King Alfred the Great defeats the Danes at the Battle of Edington",
+    "year": 878,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 51,
+    "event": "Otto I is crowned, establishing the Holy Roman Empire",
+    "year": 962,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 52,
+    "event": "Leif Erikson establishes settlements in North America",
+    "year": 1000,
+    "category": "Exploration",
+    "era": "CE"
+  },
+  {
+    "id": 53,
+    "event": "The Great East-West Schism divides Eastern and Western Churches",
+    "year": 1054,
+    "category": "Religion",
+    "era": "CE"
+  },
+  {
+    "id": 54,
+    "event": "William the Conqueror wins the Battle of Hastings",
+    "year": 1066,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 55,
+    "event": "The University of Bologna, the world's oldest university, is founded",
+    "year": 1088,
+    "category": "Culture",
+    "era": "CE"
+  },
+  {
+    "id": 56,
+    "event": "Pope Urban II calls for the First Crusade",
+    "year": 1095,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 57,
+    "event": "Temüjin unifies Mongol tribes and is proclaimed Genghis Khan",
+    "year": 1206,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 58,
+    "event": "King John signs the Magna Carta at Runnymede",
+    "year": 1215,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 59,
+    "event": "Marco Polo sets off on his travels to the East",
+    "year": 1271,
+    "category": "Exploration",
+    "era": "CE"
+  },
+  {
+    "id": 60,
+    "event": "Osman I declares independence, founding the Ottoman Empire",
+    "year": 1299,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 61,
+    "event": "The Aztecs found their grand capital of Tenochtitlan",
+    "year": 1325,
+    "category": "Architecture",
+    "era": "CE"
+  },
+  {
+    "id": 62,
+    "event": "The Black Death bubonic plague pandemic strikes Europe",
+    "year": 1347,
+    "category": "Disaster",
+    "era": "CE"
+  },
+  {
+    "id": 63,
+    "event": "The Ming Dynasty is established after overthrowing Mongol rule",
+    "year": 1368,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 64,
+    "event": "Henry V leads English forces to victory at the Battle of Agincourt",
+    "year": 1415,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 65,
+    "event": "Joan of Arc successfully relieves the Siege of Orléans",
+    "year": 1429,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 66,
+    "event": "Pachacuti founds the expansive Inca Empire",
+    "year": 1438,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 67,
+    "event": "Constantinople falls to Ottoman forces under Mehmed II",
+    "year": 1453,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 68,
+    "event": "The Battle of Bosworth Field ends the Wars of the Roses",
+    "year": 1485,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 69,
+    "event": "Spain issues the Alhambra Decree, expelling Jewish citizens",
+    "year": 1492,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 70,
+    "event": "Vasco da Gama navigates around the Cape of Good Hope",
+    "year": 1497,
+    "category": "Exploration",
+    "era": "CE"
+  },
+  {
+    "id": 71,
+    "event": "Michelangelo unveils his iconic marble statue of David",
+    "year": 1504,
+    "category": "Art",
+    "era": "CE"
+  },
+  {
+    "id": 72,
+    "event": "Martin Luther posts his 95 Theses, starting the Reformation",
+    "year": 1517,
+    "category": "Religion",
+    "era": "CE"
+  },
+  {
+    "id": 73,
+    "event": "Hernán Cortés captures Tenochtitlan for the Spanish Empire",
+    "year": 1521,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 74,
+    "event": "Ferdinand Magellan's surviving crew completes global circumnavigation",
+    "year": 1522,
+    "category": "Exploration",
+    "era": "CE"
+  },
+  {
+    "id": 75,
+    "event": "Babur wins the Battle of Panipat, founding the Mughal Empire",
+    "year": 1526,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 76,
+    "event": "Nicolaus Copernicus publishes his heliocentric planetary theory",
+    "year": 1543,
+    "category": "Science",
+    "era": "CE"
+  },
+  {
+    "id": 77,
+    "event": "Elizabeth I is crowned Queen of England",
+    "year": 1558,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 78,
+    "event": "England defeats the Spanish Armada in the English Channel",
+    "year": 1588,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 79,
+    "event": "The English establish their first permanent colony at Jamestown",
+    "year": 1607,
+    "category": "Exploration",
+    "era": "CE"
+  },
+  {
+    "id": 80,
+    "event": "Galileo Galilei discovers Jupiter's four largest moons",
+    "year": 1610,
+    "category": "Science",
+    "era": "CE"
+  },
+  {
+    "id": 81,
+    "event": "The Defenestration of Prague triggers the Thirty Years' War",
+    "year": 1618,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 82,
+    "event": "The Mayflower lands Pilgrims at Plymouth Rock",
+    "year": 1620,
+    "category": "Exploration",
+    "era": "CE"
+  },
+  {
+    "id": 83,
+    "event": "Construction of the grand Taj Mahal mausoleum is completed",
+    "year": 1653,
+    "category": "Architecture",
+    "era": "CE"
+  },
+  {
+    "id": 84,
+    "event": "The Great Fire of London devastates major parts of the city",
+    "year": 1666,
+    "category": "Disaster",
+    "era": "CE"
+  },
+  {
+    "id": 85,
+    "event": "Peter the Great officially becomes the sole Tsar of Russia",
+    "year": 1696,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 86,
+    "event": "Thomas Newcomen builds the first practical atmospheric steam engine",
+    "year": 1712,
+    "category": "Technology",
+    "era": "CE"
+  },
+  {
+    "id": 87,
+    "event": "A massive earthquake and tsunami strike Lisbon, Portugal",
+    "year": 1755,
+    "category": "Disaster",
+    "era": "CE"
+  },
+  {
+    "id": 88,
+    "event": "James Watt patents his vastly improved condenser steam engine",
+    "year": 1769,
+    "category": "Technology",
+    "era": "CE"
+  },
+  {
+    "id": 89,
+    "event": "The United States Declaration of Independence is signed",
+    "year": 1776,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 90,
+    "event": "Edward Jenner tests the first modern smallpox vaccine",
+    "year": 1796,
+    "category": "Medicine",
+    "era": "CE"
+  },
+  {
+    "id": 91,
+    "event": "The United States acquires the French territory in the Louisiana Purchase",
+    "year": 1803,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 92,
+    "event": "The British Royal Navy defeats France at the Battle of Trafalgar",
+    "year": 1805,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 93,
+    "event": "Napoleon Bonaparte is decisively defeated at the Battle of Waterloo",
+    "year": 1815,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 94,
+    "event": "Nicéphore Niépce captures the oldest surviving photograph",
+    "year": 1826,
+    "category": "Technology",
+    "era": "CE"
+  },
+  {
+    "id": 95,
+    "event": "The Liverpool and Manchester Railway passenger line opens",
+    "year": 1830,
+    "category": "Technology",
+    "era": "CE"
+  },
+  {
+    "id": 96,
+    "event": "Charles Darwin publishes his theory of evolution in Origin of Species",
+    "year": 1859,
+    "category": "Science",
+    "era": "CE"
+  },
+  {
+    "id": 97,
+    "event": "The American Civil War begins with the attack on Fort Sumter",
+    "year": 1861,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 98,
+    "event": "Abraham Lincoln delivers the historic Gettysburg Address",
+    "year": 1863,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 99,
+    "event": "The Meiji Restoration begins, modernizing the empire of Japan",
+    "year": 1868,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 100,
+    "event": "The Suez Canal opens, linking the Mediterranean and Red seas",
+    "year": 1869,
+    "category": "Architecture",
+    "era": "CE"
+  },
+  {
+    "id": 101,
+    "event": "Alexander Graham Bell receives the official patent for the telephone",
+    "year": 1876,
+    "category": "Technology",
+    "era": "CE"
+  },
+  {
+    "id": 102,
+    "event": "Thomas Edison successfully patents the incandescent light bulb",
+    "year": 1879,
+    "category": "Technology",
+    "era": "CE"
+  },
+  {
+    "id": 103,
+    "event": "The first modern Olympic Games open in Athens, Greece",
+    "year": 1896,
+    "category": "Culture",
+    "era": "CE"
+  },
+  {
+    "id": 104,
+    "event": "Marie and Pierre Curie isolate the radioactive element radium",
+    "year": 1898,
+    "category": "Science",
+    "era": "CE"
+  },
+  {
+    "id": 105,
+    "event": "Guglielmo Marconi receives the first transatlantic radio signal",
+    "year": 1901,
+    "category": "Technology",
+    "era": "CE"
+  },
+  {
+    "id": 106,
+    "event": "The British ocean liner Titanic strikes an iceberg and sinks",
+    "year": 1912,
+    "category": "Disaster",
+    "era": "CE"
+  },
+  {
+    "id": 107,
+    "event": "The assassination of Archduke Franz Ferdinand triggers World War I",
+    "year": 1914,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 108,
+    "event": "The Russian Revolution deposes the monarchy and installs Bolshevik rule",
+    "year": 1917,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 109,
+    "event": "The Treaty of Versailles is signed, formally ending WWI",
+    "year": 1919,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 110,
+    "event": "The BBC launches the world's first public television service",
+    "year": 1936,
+    "category": "Technology",
+    "era": "CE"
+  },
+  {
+    "id": 111,
+    "event": "Germany invades Poland, sparking World War II",
+    "year": 1939,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 112,
+    "event": "An atomic bomb is dropped on Hiroshima, Japan",
+    "year": 1945,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 113,
+    "event": "The United Nations Charter is signed, establishing the global body",
+    "year": 1945,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 114,
+    "event": "India secures independence from British colonial rule",
+    "year": 1947,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 115,
+    "event": "The Korean War begins with military forces crossing the 38th parallel",
+    "year": 1950,
+    "category": "War",
+    "era": "CE"
+  },
+  {
+    "id": 116,
+    "event": "Watson and Crick describe the double-helix structure of DNA",
+    "year": 1953,
+    "category": "Science",
+    "era": "CE"
+  },
+  {
+    "id": 117,
+    "event": "The Soviet Union launches Sputnik 1, the first artificial satellite",
+    "year": 1957,
+    "category": "Technology",
+    "era": "CE"
+  },
+  {
+    "id": 118,
+    "event": "The assassination of United States President John F. Kennedy",
+    "year": 1963,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 119,
+    "event": "Nelson Mandela is released from Victor Verster Prison after 27 years",
+    "year": 1990,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 120,
+    "event": "The dissolution of the Soviet Union is finalized",
+    "year": 1991,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 121,
+    "event": "The Euro currency notes and coins enter public circulation",
+    "year": 2002,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 122,
+    "event": "The social media platform Facebook is launched from Harvard",
+    "year": 2004,
+    "category": "Technology",
+    "era": "CE"
+  },
+  {
+    "id": 123,
+    "event": "The collapse of Lehman Brothers triggers the Great Recession",
+    "year": 2008,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 124,
+    "event": "Astronomers release the first actual photo of a black hole",
+    "year": 2019,
+    "category": "Science",
+    "era": "CE"
+  },
+  {
+    "id": 125,
+    "event": "The World Health Organization declares COVID-19 a global pandemic",
+    "year": 2020,
+    "category": "Disaster",
+    "era": "CE"
+  },
+  {
+    "id": 126,
+    "event": "Ferdinand and Isabella complete the Reconquista of Spain",
+    "year": 1492,
+    "category": "Politics",
+    "era": "CE"
+  },
+  {
+    "id": 127,
+    "event": "William Shakespeare publishes his first folio collection",
+    "year": 1623,
+    "category": "Culture",
+    "era": "CE"
+  },
+  {
+    "id": 128,
+    "event": "The ancient Library of Alexandria is burned down during Roman civil wars",
+    "year": -48,
+    "category": "Disaster",
+    "era": "BCE"
+  },
+  {
+    "id": 129,
+    "event": "Pericles begins the construction of the Parthenon in Athens",
+    "year": -447,
+    "category": "Architecture",
+    "era": "BCE"
+  },
+  {
+    "id": 130,
+    "event": "First crusade knights seize and sack Jerusalem",
+    "year": 1099,
+    "category": "War",
+    "era": "CE"
+},
+  {
+    "id": 131,
+    "event": "Pheidippides runs from Marathon to Athens, inspiring the modern marathon",
+    "year": -490,
+    "category": "Sports",
+    "era": "BCE"
+  },
+  {
+    "id": 132,
+    "event": "Roman Emperor Theodosius I bans the Ancient Olympic Games",
+    "year": 393,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 133,
+    "event": "The Society of St Andrews Golfers (later the R&A) is founded in Scotland",
+    "year": 1754,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 134,
+    "event": "The Football Association (FA) meets in London to codify the rules of modern football",
+    "year": 1863,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 135,
+    "event": "The first Wimbledon Tennis Championships are held at the All England Club",
+    "year": 1877,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 136,
+    "event": "The first official international Cricket Test Match is played between Australia and England",
+    "year": 1877,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 137,
+    "event": "The inaugural Boston Marathon is run, won by John J. McDermott",
+    "year": 1897,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 138,
+    "event": "The very first Tour de France cycling race is organized and won by Maurice Garin",
+    "year": 1903,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 139,
+    "event": "The inaugural Winter Olympic Games are held in Chamonix, France",
+    "year": 1924,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 140,
+    "event": "The first FIFA World Cup is hosted and won by Uruguay",
+    "year": 1930,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 141,
+    "event": "Jesse Owens wins four gold medals at the Berlin Summer Olympics",
+    "year": 1936,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 142,
+    "event": "The first official NBA (then BAA) game is played between New York and Toronto",
+    "year": 1946,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 143,
+    "event": "Jackie Robinson breaks the baseball color barrier with the Brooklyn Dodgers",
+    "year": 1947,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 144,
+    "event": "Roger Bannister runs the first sub-four-minute mile in Oxford",
+    "year": 1954,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 145,
+    "event": "A 17-year-old Pelé wins his first FIFA World Cup with Brazil in Sweden",
+    "year": 1958,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 146,
+    "event": "The inaugural NFL-AFL Championship Game (later named Super Bowl I) is played",
+    "year": 1967,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 147,
+    "event": "Muhammad Ali and Joe Frazier face off in the legendary 'Fight of the Century'",
+    "year": 1971,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 148,
+    "event": "Nadia Comăneci scores the first-ever perfect 10 in Olympic gymnastics at Montreal",
+    "year": 1976,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 149,
+    "event": "The 'Miracle on Ice': The US hockey team defeats the Soviet Union at the Winter Olympics",
+    "year": 1980,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 150,
+    "event": "Diego Maradona scores the 'Hand of God' and the 'Goal of the Century' against England",
+    "year": 1886,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 151,
+    "event": "The English Premier League is officially formed and begins its inaugural season",
+    "year": 1992,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 152,
+    "event": "Michael Jordan and the Chicago Bulls complete their second 'three-peat' NBA Championship run",
+    "year": 1998,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 153,
+    "event": "Serena Williams wins her first Grand Slam singles title at the US Open",
+    "year": 1999,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 154,
+    "event": "Michael Phelps wins a record-breaking eight gold medals at the Beijing Olympics",
+    "year": 2008,
+    "category": "Sports",
+    "era": "CE"
+  },
+  {
+    "id": 155,
+    "event": "Usain Bolt sets the 100m world record of 9.58 seconds at the World Championships in Berlin",
+    "year": 2009,
+    "category": "Sports",
+    "era": "CE"
+  }
+]
