@@ -14,7 +14,8 @@ const COLOR_THRESHOLDS = [
   { max: 10, color: 'yellow', label: 'Very Close' },
   { max: 50, color: 'orange', label: 'Close' },
   { max: 200, color: 'red', label: 'Far' },
-  { max: Infinity, color: 'gray', label: 'Centuries Off' },
+  { max: 1000, color: 'rose', label: 'Centuries Off' },
+  { max: Infinity, color: 'gray', label: 'Ages Away' },
 ];
 
 // color -> player-facing proximity label, e.g. { green: 'Bullseye!', ... }
@@ -104,7 +105,9 @@ export const isShiftGuessCorrect = (referenceYear, targetYear, guess) =>
  * evaluateGuess(1540, 1490)  // => distance 50  -> 'orange' / 'Close'
  * evaluateGuess(1541, 1490)  // => distance 51  -> 'red'    / 'Far'
  * evaluateGuess(1690, 1490)  // => distance 200 -> 'red'    / 'Far'
- * evaluateGuess(1691, 1490)  // => distance 201 -> 'gray'   / 'Centuries Off'
+ * evaluateGuess(1691, 1490)  // => distance 201 -> 'rose'   / 'Centuries Off'
+ * evaluateGuess(2490, 1490)  // => distance 1000 -> 'rose'  / 'Centuries Off'
+ * evaluateGuess(2491, 1490)  // => distance 1001 -> 'gray'  / 'Ages Away'
  *
  * // Direction across eras: guessing 44 BCE when the target is 79 CE
  * evaluateGuess(-44, 79)

@@ -6,7 +6,8 @@ const COLOR_KEY = [
   { swatch: 'bg-yellow-400', label: 'Very Close', description: 'Within a decade' },
   { swatch: 'bg-orange-400', label: 'Close', description: 'Within about half a century' },
   { swatch: 'bg-red-700', label: 'Far', description: 'Off by generations' },
-  { swatch: 'bg-zinc-500', label: 'Centuries Off', description: 'A whole different age' },
+  { swatch: 'bg-rose-800', label: 'Centuries Off', description: 'Within about a millennium' },
+  { swatch: 'bg-zinc-500', label: 'Ages Away', description: 'A whole different age' },
 ];
 
 const GUIDE = {

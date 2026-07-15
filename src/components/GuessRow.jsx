@@ -8,6 +8,7 @@ const COLOR_STYLES = {
   yellow: 'border-yellow-500/25 bg-yellow-500/10 text-yellow-400',
   orange: 'border-orange-500/25 bg-orange-500/10 text-orange-400',
   red: 'border-red-800/50 bg-red-950/40 text-red-500',
+  rose: 'border-rose-950/60 bg-rose-950/30 text-rose-700',
   gray: 'border-zinc-800/80 bg-zinc-900 text-zinc-500',
 };
 
@@ -16,6 +17,7 @@ const DOT_STYLES = {
   yellow: 'bg-yellow-400',
   orange: 'bg-orange-400',
   red: 'bg-red-700',
+  rose: 'bg-rose-800',
   gray: 'bg-zinc-600',
 };
 

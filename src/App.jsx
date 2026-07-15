@@ -77,26 +77,19 @@ export default function App() {
         onCloseMobile={closeMobileMenu}
       />
 
-      {/* Main content shifts smoothly with sidebar width on desktop. */}
-      <div
-        className={`transition-all duration-300 ease-in-out ${
-          isSidebarExpanded ? 'md:pl-64' : 'md:pl-16'
-        }`}
-      >
-        <main className="mx-auto max-w-xl px-4 py-10 pb-28 md:pb-10">
-          <AnimatePresence mode="wait">
-            <motion.div
-              key={activeMode}
-              initial={{ opacity: 0, y: 10 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0, y: -10 }}
-              transition={{ duration: 0.2, ease: 'easeOut' }}
-            >
-              <ActiveGame />
-            </motion.div>
-          </AnimatePresence>
-        </main>
-      </div>
+      <main className="mx-auto max-w-xl px-4 py-10 pb-28 md:pb-10">
+        <AnimatePresence mode="wait">
+          <motion.div
+            key={activeMode}
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: -10 }}
+            transition={{ duration: 0.2, ease: 'easeOut' }}
+          >
+            <ActiveGame />
+          </motion.div>
+        </AnimatePresence>
+      </main>
 
       <HelpModal
         open={helpOpen}

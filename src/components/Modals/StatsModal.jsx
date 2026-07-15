@@ -9,6 +9,7 @@ const COLOR_EMOJI = {
   yellow: '🟨',
   orange: '🟧',
   red: '🟥',
+  rose: '🟫',
   gray: '⬜',
 };
 
