@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+/* ── FlyRank design tokens ───────────────────────────────────────────── */
+@theme {
+  --color-obsidian: #09090b;
+  --color-surface: #18181b;
+  --color-surface-raised: #27272a;
+  --color-border: rgb(39 39 42 / 0.6);
+  --color-border-hover: rgb(63 63 70 / 1);
+  --color-emerald-glow: rgb(52 211 153 / 0.2);
+  --color-indigo-glow: rgb(129 140 248 / 0.2);
+  --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+}
+
+@layer base {
+  html {
+    @apply bg-zinc-950 text-zinc-100 antialiased;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    height: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  body {
+    @apply min-h-screen bg-zinc-950;
+    height: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  #root {
+    min-height: 100%;
+  }
+
+  /* Tabular figures for all monospace data (years, scores, equations). */
+  .font-mono {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+@layer components {
+  /* Elevated surface card — the default container across all modes. */
+  .fr-card {
+    @apply rounded-2xl border border-zinc-800/60 bg-zinc-900 transition-all duration-200;
+  }
+
+  .fr-card-interactive {
+    @apply rounded-2xl border border-zinc-800/60 bg-zinc-900 transition-all duration-200 hover:border-zinc-700 hover:shadow-lg hover:shadow-black/20;
+  }
+
+  /* Category / role badge pill. */
+  .fr-badge {
+    @apply inline-block rounded-md border px-2.5 py-0.5 text-[11px] font-medium lowercase tracking-wide;
+  }
+
+  .fr-badge-indigo {
+    @apply inline-block rounded-md border border-indigo-500/20 bg-indigo-500/10 px-2.5 py-0.5 text-[11px] font-medium lowercase tracking-wide text-indigo-400;
+  }
+
+  .fr-badge-emerald {
+    @apply inline-block rounded-md border border-emerald-500/20 bg-emerald-500/10 px-2.5 py-0.5 text-[11px] font-medium lowercase tracking-wide text-emerald-400;
+  }
+
+  /* Primary CTA — emerald mint, used for Play Again / submit actions. */
+  .fr-btn-primary {
+    @apply rounded-xl bg-emerald-500 px-6 py-2.5 text-sm font-semibold tracking-tight text-zinc-950 transition-all duration-200 hover:bg-emerald-400 hover:shadow-lg hover:shadow-emerald-500/20;
+  }
+
+  /* Secondary / ghost action. */
+  .fr-btn-secondary {
+    @apply rounded-xl border border-zinc-800/60 px-5 py-2.5 text-sm font-semibold tracking-tight text-zinc-400 transition-all duration-200 hover:border-zinc-700 hover:text-white;
+  }
+
+  /* AI / insight panels (paradox reports, anomaly cards). */
+  .fr-panel-ai {
+    @apply rounded-xl border border-indigo-500/20 bg-indigo-500/10;
+  }
+
+  /* Success end-state panel. */
+  .fr-panel-success {
+    @apply rounded-2xl border border-emerald-500/20 bg-emerald-500/10;
+  }
+
+  /* Muted end-state / loss panel — zinc, not harsh red. */
+  .fr-panel-muted {
+    @apply rounded-2xl border border-zinc-800/80 bg-zinc-900;
+  }
+
+  /* Monospace glow for dashboard numerals (Timeline Algebra). */
+  .fr-glow-indigo {
+    text-shadow: 0 0 14px rgb(129 140 248 / 0.35);
+  }
+
+  .fr-glow-white {
+    text-shadow: 0 0 16px rgb(255 255 255 / 0.3);
+  }
+
+  .fr-glow-emerald {
+    text-shadow: 0 0 14px rgb(52 211 153 / 0.35);
+  }
+}
